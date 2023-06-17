@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Game get test","Getting all jackpot Information","SUCCESS","2023-06-16T22:54:04.448+01:00[Europe/London]","0.0","5.67"
+"Game get test","Verify if currency is GBP","SUCCESS","2023-06-16T22:54:10.172+01:00[Europe/London]","0.0","0.9"
